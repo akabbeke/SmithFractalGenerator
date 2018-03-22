@@ -1,0 +1,15 @@
+{
+    "input_dir": "/Users/adamkabbeke/Documents/Wallpaper",
+    "output_dir": "output",
+    "fail_dir": "fail",
+    "image_upscale_factor": 1,
+    "board_seed_factor_options": [0.5, 0.6, 0.7, 0.8],
+    "subshape_seed_factor_options": [0.0, 0.1, 0.2, 0.3, 0.4],
+    "step_count_options": [5, 6, 7, 8, 9, 10],
+    "step_scale_options": [2, 3],
+    "conway_cycles_options": [2, 3, 4],
+    "conway_breed_factor_options": [2, 3, 4],
+    "conway_live_factor_options": [2, 3, 4],
+    "density_threshold_options": [0.1],
+    "sd_threshold_options": [0.044]
+}
